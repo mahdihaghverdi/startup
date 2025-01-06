@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}دلایل شکست هر استارت‌آپ را تحقیق و تحلیل کنید}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}آی‌هوم}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}منابع}{2}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}\lr {argyled}}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}منابع}{2}{subsubsection.1.2.1}%
+\contentsline {section}{\numberline {2}از نگاه شما، مواردی که در سایت ذکر نشده‌اند، چه دلایل دیگری باعث شکست این کسب و کار‌ها شده است؟}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}آی‌هوم}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}\lr {argyle}}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}با توجه به دلایل شناسایی شده، اگه شما جای مدیر آن کسب و کار بودید، چه اقداماتی برای پیشگیری انجام می‌دادید؟ حداقل دو مورد ذکر کنید.}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}آی‌هوم}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}\lr {argyle}}{2}{subsection.3.2}%
+\contentsline {section}{\numberline {4}حداقل یک رقیب مستقیم یا غیر مستقیم برای این کسب و کارها مثال بزنید که به موفقیت رسیده‌اند (علت موفقیت را هم تحلیل کنید).}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}آی‌هوم}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}\lr {argyle}}{3}{subsection.4.2}%

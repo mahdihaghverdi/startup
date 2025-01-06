@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}مصاحبه و جمع‌آوری نظرات در ارتباط با مدل اولیه}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}سوالات}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}پاسخ‌های خلاصه‌سازی شده و حاوی موارد مشترک}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}بررسی و جمع بندی ارزیابیها، نقدها و پیشنهادات دانشجویان}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}نقاط قوت مدل کسب و کار}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}نقاط ضعف مدل کسب و کار}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}میانگین نمرات و امتیازات عددی}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}بررسی و تحلیل عمیق رقبا}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}فرهنگسرای امید}{4}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}راه‌حل‌ها}{4}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}توضیحات تکمیلی}{4}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}کمپ ترک اعتیاد فرمانیه}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}راه‌حل‌ها}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}توضیحات تکمیلی}{5}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}\lr {Sober Grid}}{5}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}راه‌حل‌ها}{5}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}توضیحات تکمیلی}{5}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}\lr {Quit Genius}}{6}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}راه‌حل‌ها}{6}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}توضیحات تکمیلی}{6}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {4}بوم کسب و کار}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}توضیحات}{7}{subsection.4.1}%
+\contentsline {section}{\numberline {5}بوم ارزش پیشنهادی}{15}{section.5}%
+\contentsline {section}{\numberline {6}\lr {MVP}}{15}{section.6}%
